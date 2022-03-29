@@ -1,7 +1,6 @@
 {
-  "name": "rooks",
+  "name": "root",
   "private": true,
-  "version": "3.6.0",
   "description": "Useful React hooks for everyone.",
   "scripts": {
     "clean": "lerna clean",
